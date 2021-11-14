@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **narender-rk10/narender-rk10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -51,8 +49,12 @@ Here are some ideas to get you started:
 
 <h1>GitHub Stats! 📊</h1>
 <Br>
-  
-[![Narender's github stats](https://github-readme-stats.vercel.app/api?username=narender-rk10&show_icons=true&theme=gruvbox)](https://github.com/narender-rk10/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narender-rk10&layout=compact&theme=gruvbox)](https://github.com/narender-rk10/github-readme-stats)
 
-  ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=narender-rk10&theme=gruvbox&hide_border=true&area=true)
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=narender-rk10&show_icons=true&locale=en)
+
+![language stats](https://github-readme-stats.vercel.app/api/top-langs?username=narender-rk10&show_icons=true&locale=en&layout=compact)
+
+![github streak](https://github-readme-streak-stats.herokuapp.com/?user=narender-rk10&)
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=narender-rk10&hide_border=true&area=true)
 
