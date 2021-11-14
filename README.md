@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1>GitHub Stats! 📊</h1>
+<Br>
+  
+[![Narender's github stats](https://github-readme-stats.vercel.app/api?username=narender-rk10&show_icons=true&theme=merko)](https://github.com/narender-rk10/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narender-rk10&layout=compact&theme=merko)](https://github.com/narender-rk10/github-readme-stats)
