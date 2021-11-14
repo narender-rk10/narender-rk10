@@ -24,8 +24,8 @@ Here are some ideas to get you started:
   </a>
   </h3>   
                              
-                            
- ### 🛠 &nbsp;Tech Stack
+                           
+ <h1>Tech Stack</h1>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
