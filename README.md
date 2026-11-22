@@ -98,18 +98,18 @@ AI Solution Engineer and Cloud Solution Architect at Microsoft with 4+ years of 
 <h1>Featured Projects</h1>
 
 <p>
-  <a href="https://github.com/narender-rk10/MyProctor.ai-AI-BASED-SMART-ONLINE-EXAMINATION-PROCTORING-SYSYTEM"><img alt="MyProctor.ai-AI-BASED-SMART-ONLINE-EXAMINATION-PROCTORING-SYSYTEM" src="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=MyProctor.ai-AI-BASED-SMART-ONLINE-EXAMINATION-PROCTORING-SYSYTEM&theme=dark" /></a>
-  <a href="https://github.com/narender-rk10/MyRemoteDesk-Complete-Workspace-Integrated-Platform"><img alt="MyRemoteDesk-Complete-Workspace-Integrated-Platform" src="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=MyRemoteDesk-Complete-Workspace-Integrated-Platform&theme=dark" /></a>
-  <a href="https://github.com/narender-rk10/Gen-AI-Home-Interior-Designer"><img alt="Gen-AI-Home-Interior-Designer" src="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=Gen-AI-Home-Interior-Designer&theme=dark" /></a>
-  <a href="https://github.com/narender-rk10/IoT-SMART-HOME-AUTOMATION-ARDUINO-FIREBASE-ESP32-ANDROID-MyHome"><img alt="IoT-SMART-HOME-AUTOMATION-ARDUINO-FIREBASE-ESP32-ANDROID-MyHome" src="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=IoT-SMART-HOME-AUTOMATION-ARDUINO-FIREBASE-ESP32-ANDROID-MyHome&theme=dark" /></a>
-  <a href="https://github.com/narender-rk10/marketing-ai-studio"><img alt="marketing-ai-studio" src="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=marketing-ai-studio&theme=dark" /></a>
-  <a href="https://github.com/narender-rk10/OpenBI"><img alt="OpenBI" src="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=OpenBI&theme=dark" /></a>
-  <a href="https://github.com/narender-rk10/MyQAGenerator.ai-AI-BASED-QUESTION-ANSWER-GENERATOR"><img alt="MyQAGenerator.ai-AI-BASED-QUESTION-ANSWER-GENERATOR" src="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=MyQAGenerator.ai-AI-BASED-QUESTION-ANSWER-GENERATOR&theme=dark" /></a>
-  <a href="https://github.com/narender-rk10/Gen-AI-Virtual-Try-On-Clothes"><img alt="Gen-AI-Virtual-Try-On-Clothes" src="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=Gen-AI-Virtual-Try-On-Clothes&theme=dark" /></a>
-  <a href="https://github.com/narender-rk10/GenAI-Mock-Interview-Platform"><img alt="GenAI-Mock-Interview-Platform" src="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=GenAI-Mock-Interview-Platform&theme=dark" /></a>
-  <a href="https://github.com/narender-rk10/AI-CareCompanion-Offline-Health-By-Gemma"><img alt="AI-CareCompanion-Offline-Health-By-Gemma" src="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=AI-CareCompanion-Offline-Health-By-Gemma&theme=dark" /></a>
-  <a href="https://github.com/narender-rk10/Gen-AI-MindMap-Flow-Builder"><img alt="Gen-AI-MindMap-Flow-Builder" src="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=Gen-AI-MindMap-Flow-Builder&theme=dark" /></a>
-  <a href="https://github.com/narender-rk10/ArchFlow"><img alt="ArchFlow" src="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=ArchFlow&theme=dark" /></a>
+  <a href="https://github.com/narender-rk10/MyProctor.ai-AI-BASED-SMART-ONLINE-EXAMINATION-PROCTORING-SYSYTEM"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=MyProctor.ai-AI-BASED-SMART-ONLINE-EXAMINATION-PROCTORING-SYSYTEM&theme=dark" /><img alt="MyProctor.ai-AI-BASED-SMART-ONLINE-EXAMINATION-PROCTORING-SYSYTEM" src="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=MyProctor.ai-AI-BASED-SMART-ONLINE-EXAMINATION-PROCTORING-SYSYTEM&theme=default" /></picture></a>
+  <a href="https://github.com/narender-rk10/MyRemoteDesk-Complete-Workspace-Integrated-Platform"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=MyRemoteDesk-Complete-Workspace-Integrated-Platform&theme=dark" /><img alt="MyRemoteDesk-Complete-Workspace-Integrated-Platform" src="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=MyRemoteDesk-Complete-Workspace-Integrated-Platform&theme=default" /></picture></a>
+  <a href="https://github.com/narender-rk10/Gen-AI-Home-Interior-Designer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=Gen-AI-Home-Interior-Designer&theme=dark" /><img alt="Gen-AI-Home-Interior-Designer" src="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=Gen-AI-Home-Interior-Designer&theme=default" /></picture></a>
+  <a href="https://github.com/narender-rk10/IoT-SMART-HOME-AUTOMATION-ARDUINO-FIREBASE-ESP32-ANDROID-MyHome"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=IoT-SMART-HOME-AUTOMATION-ARDUINO-FIREBASE-ESP32-ANDROID-MyHome&theme=dark" /><img alt="IoT-SMART-HOME-AUTOMATION-ARDUINO-FIREBASE-ESP32-ANDROID-MyHome" src="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=IoT-SMART-HOME-AUTOMATION-ARDUINO-FIREBASE-ESP32-ANDROID-MyHome&theme=default" /></picture></a>
+  <a href="https://github.com/narender-rk10/marketing-ai-studio"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=marketing-ai-studio&theme=dark" /><img alt="marketing-ai-studio" src="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=marketing-ai-studio&theme=default" /></picture></a>
+  <a href="https://github.com/narender-rk10/OpenBI"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=OpenBI&theme=dark" /><img alt="OpenBI" src="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=OpenBI&theme=default" /></picture></a>
+  <a href="https://github.com/narender-rk10/MyQAGenerator.ai-AI-BASED-QUESTION-ANSWER-GENERATOR"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=MyQAGenerator.ai-AI-BASED-QUESTION-ANSWER-GENERATOR&theme=dark" /><img alt="MyQAGenerator.ai-AI-BASED-QUESTION-ANSWER-GENERATOR" src="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=MyQAGenerator.ai-AI-BASED-QUESTION-ANSWER-GENERATOR&theme=default" /></picture></a>
+  <a href="https://github.com/narender-rk10/Gen-AI-Virtual-Try-On-Clothes"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=Gen-AI-Virtual-Try-On-Clothes&theme=dark" /><img alt="Gen-AI-Virtual-Try-On-Clothes" src="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=Gen-AI-Virtual-Try-On-Clothes&theme=default" /></picture></a>
+  <a href="https://github.com/narender-rk10/GenAI-Mock-Interview-Platform"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=GenAI-Mock-Interview-Platform&theme=dark" /><img alt="GenAI-Mock-Interview-Platform" src="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=GenAI-Mock-Interview-Platform&theme=default" /></picture></a>
+  <a href="https://github.com/narender-rk10/AI-CareCompanion-Offline-Health-By-Gemma"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=AI-CareCompanion-Offline-Health-By-Gemma&theme=dark" /><img alt="AI-CareCompanion-Offline-Health-By-Gemma" src="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=AI-CareCompanion-Offline-Health-By-Gemma&theme=default" /></picture></a>
+  <a href="https://github.com/narender-rk10/Gen-AI-MindMap-Flow-Builder"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=Gen-AI-MindMap-Flow-Builder&theme=dark" /><img alt="Gen-AI-MindMap-Flow-Builder" src="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=Gen-AI-MindMap-Flow-Builder&theme=default" /></picture></a>
+  <a href="https://github.com/narender-rk10/ArchFlow"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=ArchFlow&theme=dark" /><img alt="ArchFlow" src="https://github-readme-stats.vercel.app/api/pin/?username=narender-rk10&repo=ArchFlow&theme=default" /></picture></a>
 </p>
 
 
@@ -133,11 +133,11 @@ AI Solution Engineer and Cloud Solution Architect at Microsoft with 4+ years of 
 <h1>GitHub Stats! 📊</h1>
 <Br>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=narender-rk10&show_icons=true&locale=en)
-![github streak](https://streak-stats.demolab.com/?user=narender-rk10&theme=dark)
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=narender-rk10&show_icons=true&locale=en&theme=dark" /><img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=narender-rk10&show_icons=true&locale=en&theme=default" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=narender-rk10&theme=dark" /><img alt="github streak" src="https://streak-stats.demolab.com/?user=narender-rk10&theme=default" /></picture>
 
 <p>
-  <img alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=narender-rk10&theme=default" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=narender-rk10&theme=github_dark" /><img alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=narender-rk10&theme=default" /></picture>
 </p>
 
 <p align="center">
@@ -148,10 +148,10 @@ AI Solution Engineer and Cloud Solution Architect at Microsoft with 4+ years of 
 </p>
 
 <p>
-  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=narender-rk10&theme=github-compact" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=narender-rk10&theme=github-dark" /><img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=narender-rk10&theme=github-compact" /></picture>
 </p>
 
 <p>
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narender-rk10&layout=compact&theme=dark" />
-  <img alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=narender-rk10&theme=default" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=narender-rk10&layout=compact&theme=dark" /><img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narender-rk10&layout=compact&theme=default" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=narender-rk10&theme=github_dark" /><img alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=narender-rk10&theme=default" /></picture>
 </p>
